@@ -2,13 +2,16 @@ body{
   background-color: #FDF6EC;
   color: #4A4038;
   font-family: Lato, sans-serif;
+  line-height: 1.6;
 }
 h1 {
   color: #B85042;
   font-size: 40px;
   fomt-family: Lora, serif;
+  text-align: center;
 }
 h2 {
   color: #2F4F4F;
   font-size: 32px;
+  text-align: center;
 }
